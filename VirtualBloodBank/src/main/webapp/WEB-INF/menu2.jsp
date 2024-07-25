@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            padding: 0px;
+            margin:0px
+        }
+        img{
+            height:100vh;
+            width:100%;
+        }
+    </style>
+</head>
+<body>
+    <img src="/img/menu2.jpeg">
+</body>
+</html>
