@@ -169,7 +169,6 @@ public class virtualbloodbankController {
 
 		request.getSession().setAttribute("id", user.getEmail());
 		request.getSession().setAttribute("userRole", user.getRole());
-
 		if (user != null && user.getPassword().equals(password)) {
 
 			if (user.getRole().equals("donor")) {

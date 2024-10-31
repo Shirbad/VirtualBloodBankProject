@@ -77,7 +77,7 @@ body {
         <li><a href="bbcontent" target="body">Home</a></li>
         <li><a href="bedit" target="body">EditProfile</a></li>
         <li><a href="rindex" target="_top">ResetPassword</a></li>
-        <li><a href="#" target="body">RequestBlood</a></li>
+        <li><a href="hrequest" target="body">RequestBlood</a></li>
         <li><a href="searchindex" target="_top">SearchBlood</a></li>
         <li><a href="checkindex" target="_top">CheckStock</a></li>
         <li><a href="index" target="_top">Logout</a></li>

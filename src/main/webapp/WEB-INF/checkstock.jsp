@@ -39,7 +39,7 @@ th {
 </style>
 </head>
 <body>
-<h2 style="text-align: center; color: black;">Blood Donate Date</h2>
+<h2 style="text-align: center; color: black;">Blood CheckStock</h2>
 <div class="container">
     <form action="checkstock" method="get">
         <div style="background-color: #f2f2f2; padding: 10px; border-radius: 5px;">
